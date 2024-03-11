@@ -35,8 +35,7 @@
 
 ---
 
-<p>Hi, I'm Drew. I don't work in tech anymore but I still like programming.</p>
-<p>I'm into computers, anime, manga, FOSS, and weightlifting.</p>
+<p>Hi, I'm Drew. I like programming.</p>
 <p>You can follow me on Mastodon if you want. Link below.</p>
 <a href="https://mastodon.social/@drewhans555" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/mastodon/follow/109259611648303744?domain=https%3A%2F%2Fmastodon.social%2F&style=social" alt="Mastodon Follow"  />
